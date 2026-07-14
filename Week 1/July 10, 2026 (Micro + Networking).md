@@ -12,7 +12,7 @@
 
 <u>NETWORKING - OSI Layers:</u>
 
-
+<img width="425" height="347" alt="Screenshot 2026-07-10 102844" src="https://github.com/user-attachments/assets/392b3032-3d26-42c8-97a0-04f73876adb5" />
 
 <u>Address Resolution Protocol (ARP):</u>
 - Part of Network Layer (3) 
@@ -64,14 +64,15 @@ $ traceroute [IP Address or DNS]
 <u>Unreliable Datagram Protocol (UDP):</u>
 - **UDP** = lightweight, connectionless internet protocol that prioritizes speed over reliability. By sending data packets directly without a formal connection/initial handshake or delivery confirmation, UDP minimizes latency, making it ideal for real-time applications like live video streaming, VoIP calls, and online gaming.
 - Header: 
-![[Screenshot 2026-07-10 105138.png]]
+
+<img width="653" height="371" alt="Screenshot 2026-07-10 105138" src="https://github.com/user-attachments/assets/faa02330-2194-4682-b81a-872b9a1d0854" />
 
 <u>Transmission Control Protocol (TCP):</u>
 - **TCP** = networking standard that guarantees reliable, ordered, and error-checked delivery of data between applications across IP networks. Working alongside the Internet Protocol (IP), it ensures data is not lost or corrupted by organizing, tracking, and automatically retransmitting missing packets.
 - Built-in error correction
 - Responsible for data re-assembly and segment reordering
 
-![[Screenshot 2026-07-10 105350.png]]
+<img width="449" height="325" alt="Screenshot 2026-07-10 105350" src="https://github.com/user-attachments/assets/ddac1f8e-f8c8-4f0b-8565-dd9ee2ea26a9" />
 
 <u>TCP Attacks:</U>
 - **"Teardrop Attack"** 
@@ -102,7 +103,8 @@ $ traceroute [IP Address or DNS]
 - Best-effort protocol
 
 <u>DNS Squatting:</u>
-![[Screenshot 2026-07-10 124813.png]]
+
+<img width="653" height="358" alt="Screenshot 2026-07-10 124813" src="https://github.com/user-attachments/assets/f475487c-c08b-4c5c-b490-f4f4ec240b13" />
 
 <u>Simple Mail Transport Protocol (SMTP) Agents:</u>
 - **MUA (Mail User-Agent)** = client software either web/application
@@ -126,7 +128,8 @@ $ traceroute [IP Address or DNS]
 > Remember, we are just sending ASCII (7-bit) TEXT
 
 <u>Analyzing Email Headers:</U>
-![[Screenshot 2026-07-10 130903.png]]
+
+<img width="638" height="353" alt="Screenshot 2026-07-10 130903" src="https://github.com/user-attachments/assets/05d4d4e7-67f9-482e-b9ca-2685337177c7" />
 
 <u>HyperText Transfer Protocol (HTTP):</U>
 - **Stateless Protocol:**
@@ -144,9 +147,9 @@ $ traceroute [IP Address or DNS]
 - **Default Homepage defined by:**
 	- index.html
 
-![[Screenshot 2026-07-10 131418.png]]
+<img width="646" height="364" alt="Screenshot 2026-07-10 131418" src="https://github.com/user-attachments/assets/4b66f5bd-47ae-4a9d-9922-474432d20368" />
 
-![[Screenshot 2026-07-10 132600.png]]
+<img width="641" height="343" alt="Screenshot 2026-07-10 132600" src="https://github.com/user-attachments/assets/45fa051d-ed26-4890-b595-2b937af50282" />
 
 <u>HTTP - JavaScript:</u>
 - **In line:**
@@ -165,7 +168,9 @@ $ traceroute [IP Address or DNS]
 
 	  ```
 <u>Cryptography at (almost) every level:</u>
-![[Screenshot 2026-07-10 133236.png]]
+
+<img width="577" height="329" alt="Screenshot 2026-07-10 133236" src="https://github.com/user-attachments/assets/6f3f7b9b-5873-48e6-985f-ab465c9aab6b" />
+
 
 <u>Transport Layer Security (TLS):</u>
 - simplifies the exchange by combining several actions into 1x step 
@@ -202,6 +207,8 @@ $ traceroute [IP Address or DNS]
 		- Cloudflare, Fastly, Akamai
 
 <u>TOR:</u>
-![[Screenshot 2026-07-10 135825.png]]
+
+<img width="688" height="365" alt="Screenshot 2026-07-10 135825" src="https://github.com/user-attachments/assets/90bfd7af-95de-4b69-bdba-ae3410a0e420" />
+
 
 
