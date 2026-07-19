@@ -1,4 +1,4 @@
-# July 6, 2026 (Cryptography Day 1)
+# July 8, 2026 (Cryptography Day 1)
 
 <u>Cryptography Outline:</u>
 - **Getting Confidentiality**
