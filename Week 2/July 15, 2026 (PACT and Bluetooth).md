@@ -2,6 +2,7 @@
 
 **PACT (Private Automated Contact Tracing)**
 
+
 <img width="488" height="368" alt="Screenshot 2026-07-15 130352" src="https://github.com/user-attachments/assets/70b26d95-e5d8-48cc-b61c-9804c62b4d3d" />
 
 
@@ -23,10 +24,14 @@
 
 > **PACT** is an ambitious program, attempting to have immediate impact
 
+
 <img width="467" height="328" alt="Screenshot 2026-07-15 132251" src="https://github.com/user-attachments/assets/6bb1fae6-5960-470a-9f7f-4a008a00f4e8" />
 
 
+
 <img width="470" height="263" alt="Screenshot 2026-07-15 132324" src="https://github.com/user-attachments/assets/73260dbe-17e5-43f0-95da-e3fbea849f0d" />
+
+
 
 <img width="474" height="346" alt="Screenshot 2026-07-15 132726" src="https://github.com/user-attachments/assets/7b6d0bb0-3370-4e76-a2a6-de2bb061ba0f" />
 
@@ -48,17 +53,23 @@
 
 <u>The PACT Protocol:</u>
 
+
 <img width="476" height="361" alt="Screenshot 2026-07-15 134021" src="https://github.com/user-attachments/assets/bf856df5-2b9a-492f-b8e1-e10c7cfc8418" />
+
 
 <img width="472" height="339" alt="Screenshot 2026-07-15 134258" src="https://github.com/user-attachments/assets/1f42ce57-1710-4bfc-a022-df69a6c689d4" />
 
+
 <img width="473" height="350" alt="Screenshot 2026-07-15 134945" src="https://github.com/user-attachments/assets/1805c958-e29e-40eb-a4fb-72d274326ee8" />
+
 
 <img width="473" height="350" alt="Screenshot 2026-07-15 135258" src="https://github.com/user-attachments/assets/b9ec792c-3471-4690-b0a1-f0e1624e935f" />
 
 
 
+
 <u>Advanced Proximity Testing:</u>
+
 
 <img width="476" height="353" alt="Screenshot 2026-07-15 135431" src="https://github.com/user-attachments/assets/6633dfff-b771-4e5b-b941-1a3b45c931d4" />
 
