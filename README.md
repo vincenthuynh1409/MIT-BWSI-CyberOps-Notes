@@ -4,7 +4,7 @@
 
 ### 👋 Introduction:
 
-Hi, this repository will contain my personally written notes from lectures, and study materials/key concepts from the MIT (Massachusetts Institute of Technology) Beaver Works Summer Institute (BWSI) Cyber Operations 2026 program :)
+Hi, this repository will contain my personally written notes from lectures + study materials/key concepts from the MIT (Massachusetts Institute of Technology) Beaver Works Summer Institute (BWSI) Cyber Operations 2026 program :)
 
 > These notes are primarily for my own learning and review, while also showcasing my progress and understanding of cybersecurity concepts throughout the program.
 
