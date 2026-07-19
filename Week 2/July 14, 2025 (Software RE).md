@@ -1,10 +1,10 @@
 # July 14, 2025 (Software Reverse Engineering).md
 
 <u>Buffer Overflows:</u>
-- C language does NOT check that writes are within bounds
-- Buffer Overflow = occurs when data is written OUTSIDE of the space allocated for the buffer!
+- **C language** does NOT check that writes are within bounds
+- **Buffer Overflow** = occurs when data is written OUTSIDE of the space allocated for the buffer!
 
-> "Buffers" are just an array that stores data!
+> **"Buffers"** are just an array that stores data!
 
 <u>Buffer Overflow Example:</u>
 ```C
@@ -41,3 +41,77 @@ void main() {
               ↑ Overwrites nearby memory
 
 > The extra data can overwrite important stack data, including the **return address**. This often causes the program to **crash**, and on vulnerable systems it could potentially allow an attacker to redirect the program's execution.
+
+![[Screenshot 2026-07-14 125234.png]]
+
+
+
+<u>What is an Operating System?:</u>
+- Program that acts as an intermediary between a user of a computer and the computer hardware!
+- **Goals:**
+	- Execute user programs and make solving user problems easier
+	- Make the computer system convenient to use
+	- Use the computer hardware in an efficient manner
+	- Provide protection and security
+- EX: Linux, Windows, MacOS, etc
+
+![[Screenshot 2026-07-14 125540.png]]
+
+![[Screenshot 2026-07-14 125752.png]]
+
+<u>Principles of Protection:</u>
+- Must consider granularity of protection:
+	- **coarse-grained privilege** management is easier, simpler, but least privilege now done in large chunks
+		- EX: Unix processes either have abilities of user or root
+	- **fine-grained management** more complex, more overhead, but more protective
+		- File ACL lists, role-based access control (RBAC)
+- Domain can be user, process, procedure
+
+<u>Permissions in Linux:</u>
+- Permissions restrict access to files and directories
+- View with `$ ls -l`
+	- `|rwx|rwx|rwx|` > permissions for user, group, and other
+- Change with `$ chmod <entity> <+/-> <permissions> <file/directory>`
+
+| Permission | File Action | Directory Action       | `chmod` Action |
+| ---------- | ----------- | ---------------------- | -------------- |
+| Read       | View        | List Contents          | `r`            |
+| Write      | Edit        | Create or Remove Files | `w`            |
+| Execute    | Run         | Access Directory       | `x`            |
+
+| Restriction | Description                               | `chmod` Action |
+| ----------- | ----------------------------------------- | -------------- |
+| User        | User Assigned Ownership of File/Directory | `u`            |
+| Group       | Primary Group of Owner                    | `g`            |
+| Other       | Everyone Else                             | `o`            |
+
+<u>Privilege Separation in Linux:</u>
+- `root` = account associated with the superuser
+	- FULL access to ALL files and commands
+	- May invoke privileged operations
+	- Runs at the same privilege level as the operating system
+- **Non-root accounts** restricted to:
+	- full access to home directory
+	- Restricted access (Read, Write, Execute) to other parts of the filesystem
+	- May only invoke unprivileged operations
+- `sudo
+	- Requires user password
+	- Runs the command as root (if user is allowed to)
+
+<u>Fully-Automated Analysis:</u>
+- **Fully automated analysis** is the process of extracting, processing, and evaluating data or physical samples using software, algorithms, or machinery with **zero manual intervention**, and in cybersecurity, using software, algorithms, and artificial intelligence to monitor, inspect, and evaluate security events, code, or network traffic without human intervention.
+- Why?
+	- **Sanitation:**
+		- Detonate inside a controlled sandbox or VM
+	- **Effortless Analysis:**
+		- Upload & GO!
+	- **Save Time on Common Malware:**
+		- Download stage-n artifacts
+		- Observe & Collect IOCs
+	- **Resource Constraints:**
+		- Available personnel
+		- Job roles and functions
+		- Dedicated funding
+		- Hardware
+
+
