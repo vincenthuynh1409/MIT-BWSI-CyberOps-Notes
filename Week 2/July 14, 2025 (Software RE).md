@@ -42,9 +42,7 @@ void main() {
 
 > The extra data can overwrite important stack data, including the **return address**. This often causes the program to **crash**, and on vulnerable systems it could potentially allow an attacker to redirect the program's execution.
 
-![[Screenshot 2026-07-14 125234.png]]
-
-
+<img width="631" height="332" alt="Screenshot 2026-07-14 125234" src="https://github.com/user-attachments/assets/50958112-3c1f-42ab-91a6-eebc51ae3728" />
 
 <u>What is an Operating System?:</u>
 - Program that acts as an intermediary between a user of a computer and the computer hardware!
@@ -55,9 +53,11 @@ void main() {
 	- Provide protection and security
 - EX: Linux, Windows, MacOS, etc
 
-![[Screenshot 2026-07-14 125540.png]]
+<img width="563" height="332" alt="Screenshot 2026-07-14 125540" src="https://github.com/user-attachments/assets/c1ce653e-77e0-464a-982b-12788a18f535" />
 
-![[Screenshot 2026-07-14 125752.png]]
+
+<img width="629" height="341" alt="Screenshot 2026-07-14 125752" src="https://github.com/user-attachments/assets/45ed2db9-8299-4a5c-a4f3-04130e27d811" />
+
 
 <u>Principles of Protection:</u>
 - Must consider granularity of protection:
