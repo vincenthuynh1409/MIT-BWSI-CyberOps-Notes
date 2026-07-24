@@ -16,10 +16,12 @@
 > ML System can generalize info from data and learn to adapt based on new info!
 
 <u>How ML Effective?</u>
-![[Screenshot 2026-07-17 113645.png]]
+
+<img width="635" height="336" alt="Screenshot 2026-07-17 113645" src="https://github.com/user-attachments/assets/9d469694-714d-46d7-a299-d34914eb93c9" />
 
 <u>Why Important?</u>
-![[Screenshot 2026-07-17 113830.png]]
+
+<img width="573" height="332" alt="Screenshot 2026-07-17 113830" src="https://github.com/user-attachments/assets/e47b5e0d-5aa7-4412-b8df-c591c2bb44a0" />
 
 <u>Threat Model:</u>
 - **Assumptions about:**
@@ -49,7 +51,8 @@
 
 <u>Adversarial Capabilities:</u>
 
-![[Screenshot 2026-07-17 114641.png]]
+<img width="613" height="323" alt="Screenshot 2026-07-17 114641" src="https://github.com/user-attachments/assets/7adafe9a-6c2b-49d6-bf97-e1b2bf093e21" />
+
 
 <u>Adversarial Goals:</u>
 - Adversary wants to Exploit:
@@ -60,11 +63,13 @@
 
 <u>Security Threats to AI Systems:</u>
 
-![[Screenshot 2026-07-17 114904.png]]
+<img width="628" height="293" alt="Screenshot 2026-07-17 114904" src="https://github.com/user-attachments/assets/ad84b0ec-91b8-40de-b3bc-e45d2ed481dc" />
+
 
 <u>Backdoor Attacks:</u>
 
-![[Screenshot 2026-07-17 115256.png]]
+<img width="599" height="293" alt="Screenshot 2026-07-17 115256" src="https://github.com/user-attachments/assets/1d24ff82-ca1c-4ad9-958b-615a187b6e21" />
+
 
 <u>Preventing Poisoning:</u>
 - Carefully inspect and triage the training data, do extensive testing:
@@ -76,17 +81,21 @@
 
 <u>threats during testing:</u>
 
-![[Screenshot 2026-07-17 115430.png]]
+<img width="525" height="215" alt="Screenshot 2026-07-17 115430" src="https://github.com/user-attachments/assets/c3ad8898-b917-4614-ba31-349f7625049b" />
+
 
 <u>Attacks During Interference:</u>
 
-![[Screenshot 2026-07-17 115441.png]]
+<img width="612" height="323" alt="Screenshot 2026-07-17 115441" src="https://github.com/user-attachments/assets/7b72b78d-d597-476c-bea9-e9a6fe1b05cc" />
+
 
 <u>Model Uncertainty:</u>
 
-![[Screenshot 2026-07-17 115733.png]]
+<img width="625" height="329" alt="Screenshot 2026-07-17 115733" src="https://github.com/user-attachments/assets/d7ad421a-a76c-4a45-b3f8-ca8bfd4abd42" />
 
-![[Screenshot 2026-07-17 115916.png]]
+
+<img width="634" height="325" alt="Screenshot 2026-07-17 115916" src="https://github.com/user-attachments/assets/d8ac401d-9671-4729-bef3-fac902719655" />
+
 
 <u>Preventing Evasion Attacks:</u>
 - No universal shield, but you can make the model more robust by training on adversarial generated images!
@@ -116,7 +125,8 @@
 
 <u>Model Extraction / Theft Attacks:</u>
 
-![[Screenshot 2026-07-17 120627.png]]
+<img width="588" height="323" alt="Screenshot 2026-07-17 120627" src="https://github.com/user-attachments/assets/30dbaf33-20d5-48ef-89c5-b9110faae518" />
+
 
 <u>Privacy Defenses:</u>
 - Reduce what the model memorizes and what the interface to the model reveals
@@ -131,7 +141,8 @@
 
 <u>Example LLM Prompt:</u>
 
-![[Screenshot 2026-07-17 121855.png]]
+<img width="493" height="329" alt="Screenshot 2026-07-17 121855" src="https://github.com/user-attachments/assets/8173abdd-5306-40c0-9dbf-e3bf610dda4c" />
+
 
 <u>AI Prompt Injection:</u>
 
@@ -139,16 +150,19 @@
 
 <u>Prompt Injection Example:</u>
 
-![[Pasted image 20260722205905.png]]
+
 
 <u>Adversarial Examples:</u>
-![[Screenshot 2026-07-17 145801.png]]
+
+
 
 <u>ML in Autonomous Driving:</u>
-![[Screenshot 2026-07-17 145809.png]]
+
+
 
 <u>Adversarial Attacks:</u>
-![[Screenshot 2026-07-17 145925.png]]
+
+
 
 <u>Adversarial Attacks - Type of Evasion Attacks:</u>
 - **Fast Gradient Sign Method (FSGM)** = this attack method disturbs input data by adding noise proportional to the gradient of the loss function. It is fast and straightforward, but less effective compared to other methods
