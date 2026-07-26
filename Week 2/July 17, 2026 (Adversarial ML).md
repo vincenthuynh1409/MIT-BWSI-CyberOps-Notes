@@ -150,18 +150,22 @@
 
 <u>Prompt Injection Example:</u>
 
+<img width="635" height="312" alt="Screenshot 2026-07-17 122148" src="https://github.com/user-attachments/assets/351075ea-47cb-4b00-9dc6-e6dbe608a8d2" />
 
 
 <u>Adversarial Examples:</u>
 
+<img width="621" height="333" alt="Screenshot 2026-07-17 145801" src="https://github.com/user-attachments/assets/3c11b159-1059-4da0-8f6b-4b1ba8e07411" />
 
 
 <u>ML in Autonomous Driving:</u>
 
+<img width="472" height="338" alt="Screenshot 2026-07-17 145809" src="https://github.com/user-attachments/assets/fb494c5b-d478-455d-a642-ab49f452bb22" />
 
 
 <u>Adversarial Attacks:</u>
 
+<img width="642" height="269" alt="Screenshot 2026-07-17 145925" src="https://github.com/user-attachments/assets/e41f8e7d-f991-4f6e-b20e-31aa8150da0f" />
 
 
 <u>Adversarial Attacks - Type of Evasion Attacks:</u>
@@ -172,7 +176,8 @@
 
 <u>Carlini & Wagner (C&W) Attack:</u>
 
-![[Screenshot 2026-07-17 150246.png]]
+<img width="662" height="326" alt="Screenshot 2026-07-17 150246" src="https://github.com/user-attachments/assets/fdf78fd7-69f3-4712-af35-923b8c514ce2" />
+
 
 <u> Defense Strategies - Adversarial Training:</u>
 - **Definition:**
