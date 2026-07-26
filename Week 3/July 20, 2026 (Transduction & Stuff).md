@@ -1,4 +1,4 @@
-# July 20, 2026 (Transduction)
+# July 20, 2026 (Transduction & Stuff)
 
 **Processors, memory, CPUs, and DIMMs** are central hardware components in **confidential computing** and physical hardware security, where modern exploits target the data path between the chip and physical sticks. 
 
@@ -51,5 +51,30 @@ Hardware Security Roles:
 - **Light Commands** refer to a novel class of security exploits where attackers use invisible, amplitude-modulated laser light beamed at smart device microphones to silently inject remote voice commands.
 
 <img width="646" height="355" alt="Screenshot 2026-07-20 102127" src="https://github.com/user-attachments/assets/fde47bf2-e18c-4487-9b05-5d0a9b16ef04" />
+
+<u>Trusted Platform Module Hardware Root of Trust:</u>
+- Standardized cryptographic co-processor
+	- Not an crypto accelerator
+- Provides storage for:
+	- Hash measurements
+	- Cryptographic Keys
+- Provides Cryptographic Operations:
+	- Hashing, Signing, Encryption, and Key Generation
+- Endorsement Key (EK) = Permanent key that certifies device is a real TPM
+	- Created by TPM manufacturer
+
+<u>Integrity Measurement:</u>
+
+<img width="637" height="321" alt="Screenshot 2026-07-20 105729" src="https://github.com/user-attachments/assets/d4145b72-4ae3-4194-bd78-dcc95ec2d544" />
+
+
+<u>Attestation:</u>
+
+<img width="635" height="326" alt="Screenshot 2026-07-20 105827" src="https://github.com/user-attachments/assets/2d84ee00-5a9b-43cb-83c5-c56883b9df50" />
+
+
+<u>Other Threats - Side Channels:</u>
+
+<img width="700" height="388" alt="Screenshot 2026-07-20 110023" src="https://github.com/user-attachments/assets/d9abee18-75f7-480c-9793-4cc2b4dcf76c" />
 
 
