@@ -67,14 +67,12 @@
 
 <u>Bellingcat:</u>
 
-
-
-<u>ThisPersonDoesNotExist:</u>
-
+<img width="956" height="490" alt="Screenshot 2026-07-29 121007" src="https://github.com/user-attachments/assets/aea20734-d8ff-4c79-a8ef-0401c25f6240" />
 
 
 <u>Email Accounts - Aliases:</u>
 
+<img width="958" height="510" alt="Screenshot 2026-07-29 121015" src="https://github.com/user-attachments/assets/19c326af-0978-4452-b90a-1e1b4a627940" />
 
 
 <u>Money:<//u>
