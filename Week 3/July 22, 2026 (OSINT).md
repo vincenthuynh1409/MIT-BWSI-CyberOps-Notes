@@ -75,7 +75,7 @@
 <img width="958" height="510" alt="Screenshot 2026-07-29 121015" src="https://github.com/user-attachments/assets/19c326af-0978-4452-b90a-1e1b4a627940" />
 
 
-<u>Money:<//u>
+<u>Money:</u>
 - Debit Cards
 - Credit Cards
 - Virtual (Masked) Cards
