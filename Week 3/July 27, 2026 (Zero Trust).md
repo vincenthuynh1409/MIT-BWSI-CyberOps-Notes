@@ -13,13 +13,15 @@
 
 <u>Volt Typhoon Attack Detail:</u>
 
-![](file:///C:/Users/vince/OneDrive/Pictures/Screenshots/Screenshot%202026-07-28%20133614.png)
+<img width="696" height="389" alt="Screenshot 2026-07-28 133614" src="https://github.com/user-attachments/assets/a5584831-df49-4f6d-99f2-1159886a63bc" />
+
 
 <u>Foundational Cybersecurity Principles:</u>
 
-![](file:///C:/Users/vince/OneDrive/Pictures/Screenshots/Screenshot%202026-07-28%20133831.png)
+<img width="703" height="387" alt="Screenshot 2026-07-28 133831" src="https://github.com/user-attachments/assets/df4f1495-4b67-4708-9171-5c0a2c90af4f" />
 
-![](file:///C:/Users/vince/OneDrive/Pictures/Screenshots/Screenshot%202026-07-28%20133959.png)
+<img width="698" height="389" alt="Screenshot 2026-07-28 133959" src="https://github.com/user-attachments/assets/03a3d88e-b15f-4798-a2a2-f552b2886110" />
+
 
 <u>Zero Trust Definitions:</u>
 - **Zero Trust** = set of security principles that treats every component, service and user of a system as continuously exposed to and potentially compromised by malicious adversary
@@ -27,19 +29,24 @@
 
 <u>Threat of Lateral Movement in Current Networks:</u>
 
-![](file:///C:/Users/vince/OneDrive/Pictures/Screenshots/Screenshot%202026-07-28%20134952.png)
+<img width="696" height="389" alt="Screenshot 2026-07-28 134952" src="https://github.com/user-attachments/assets/e2e2399f-458c-49b7-8dc0-f7fbf2a586fa" />
+
 
 <u>Inhibiting Lateral Movement with Zero Trust:</u>
 
-![](file:///C:/Users/vince/OneDrive/Pictures/Screenshots/Screenshot%202026-07-28%20135357.png)
+<img width="696" height="389" alt="Screenshot 2026-07-28 135357" src="https://github.com/user-attachments/assets/af3db1ab-8a17-4568-bc35-d26dccc45e68" />
+
 
 <u>Key Technologies Overview:</u>
 
-![](file:///C:/Users/vince/OneDrive/Pictures/Screenshots/Screenshot%202026-07-28%20140350.png)
+<img width="695" height="389" alt="Screenshot 2026-07-28 140350" src="https://github.com/user-attachments/assets/9e8b1580-226f-4a7c-ae51-c003fd53a6a2" />
+
+
 
 <u>Segmentation Controls:</u>
 
-![](file:///C:/Users/vince/OneDrive/Pictures/Screenshots/Screenshot%202026-07-28%20140543.png)
+<img width="702" height="391" alt="Screenshot 2026-07-28 140543" src="https://github.com/user-attachments/assets/bbee71ec-87f3-4e7d-b987-b434a0b830ff" />
+
 
 <u>Impact and Maintenance:</u>
 - Reframed Focus:
@@ -56,5 +63,6 @@
 
 <u> Requirements for Non-Enterprise Deployments:</u>
 
-![](file:///C:/Users/vince/OneDrive/Pictures/Screenshots/Screenshot%202026-07-28%20140732.png)
+<img width="687" height="379" alt="Screenshot 2026-07-28 140732" src="https://github.com/user-attachments/assets/82158ced-9032-4248-b8cf-bf3414e2f84b" />
+
 
