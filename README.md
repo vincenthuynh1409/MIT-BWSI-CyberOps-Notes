@@ -8,7 +8,7 @@ Hi, this repository will contain my personally written notes from lectures + stu
 
 ## 🗺️ Navigation:
 
-There are 4 weeks in the Cyber Operations program, and there will be 4 folders that correspond to each week. To find the notes, click on the specific week folder in the repository and navigate through the markdown files to find the specific topic/subject! 
+There are 4 weeks in the Cyber Operations program, and there will be 3 folders that correspond to each week (last week is the final CTF and hackathon - not included). To find the notes, click on the specific week folder in the repository and navigate through the markdown files to find the specific topic/subject! 
 
 ### Topic Links
 
