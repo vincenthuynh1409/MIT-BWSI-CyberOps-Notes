@@ -1,14 +1,12 @@
 # MIT BWSI Cyber Operations Notes
 
-## Description:
-
-### 👋 Introduction:
+## 👋 Introduction:
 
 Hi, this repository will contain my personally written notes from lectures + study materials/key concepts from the MIT (Massachusetts Institute of Technology) Beaver Works Summer Institute (BWSI) Cyber Operations 2026 program
 
 > These notes are primarily for my own learning and review, while also showcasing my progress and understanding of cybersecurity concepts throughout the program.
 
-### 🗺️ Navigation:
+## 🗺️ Navigation:
 
 There are 4 weeks in the Cyber Operations program, and there will be 4 folders that correspond to each week. To find the notes, click on the specific week folder in the repository and navigate through the markdown files to find the specific topic/subject! 
 
