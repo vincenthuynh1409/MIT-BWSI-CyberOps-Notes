@@ -22,6 +22,18 @@ There are 4 weeks in the Cyber Operations program, and there will be 4 folders t
   - [PACT & Bluetooth](https://github.com/vincenthuynh1409/MIT-BWSI-CyberOps-Notes/blob/main/Week%202/July%2015%2C%202026%20(PACT%20and%20Bluetooth).md)
   - [Side-Channel Attacks](https://github.com/vincenthuynh1409/MIT-BWSI-CyberOps-Notes/blob/main/Week%202/July%2016%2C%202026%20(Side-Channel%20Attacks).md)
   - [Adversarial Machine Learning (ML)](https://github.com/vincenthuynh1409/MIT-BWSI-CyberOps-Notes/blob/main/Week%202/July%2017%2C%202026%20(Adversarial%20ML).md)
+- Week 3:
+  - [Cloud](https://github.com/vincenthuynh1409/MIT-BWSI-CyberOps-Notes/blob/main/Week%203/July%2020%2C%202026%20(Cloud).md)
+  - [DevOps](https://github.com/vincenthuynh1409/MIT-BWSI-CyberOps-Notes/blob/main/Week%203/July%2020%2C%202026%20(DevOps).md)
+  - [HPC](https://github.com/vincenthuynh1409/MIT-BWSI-CyberOps-Notes/blob/main/Week%203/July%2020%2C%202026%20(HPC).md)
+  - [Transduction & Stuff](https://github.com/vincenthuynh1409/MIT-BWSI-CyberOps-Notes/blob/main/Week%203/July%2020%2C%202026%20(Transduction%20%26%20Stuff).md)
+  - [Embedded & CAN](https://github.com/vincenthuynh1409/MIT-BWSI-CyberOps-Notes/blob/main/Week%203/July%2021%2C%202026%20(Embedded%20%26%20CAN).md)
+  - [Large Language Models (LLMs)](https://github.com/vincenthuynh1409/MIT-BWSI-CyberOps-Notes/blob/main/Week%203/July%2022%2C%202026%20(LLMs).md)
+  - [Open Source Intelligence (OSINT)](https://github.com/vincenthuynh1409/MIT-BWSI-CyberOps-Notes/blob/main/Week%203/July%2022%2C%202026%20(OSINT).md)
+  - [Zero Trust](https://github.com/vincenthuynh1409/MIT-BWSI-CyberOps-Notes/blob/main/Week%203/July%2027%2C%202026%20(Zero%20Trust).md)
+  - [Threat Model w/ STRIDE](https://github.com/vincenthuynh1409/MIT-BWSI-CyberOps-Notes/blob/main/Week%203/July%2031%2C%202026%20(Threat%20Model%20with%20STRIDE).md)
+ 
+
 
 That's pretty much it. Happy reading :)
 
