@@ -10,6 +10,10 @@ Hi, this repository will contain my personally written notes from lectures + stu
 
 There are 4 weeks in the Cyber Operations program, and there will be 4 folders that correspond to each week. To find the notes, click on the specific week folder in the repository and navigate through the markdown files to find the specific topic/subject! 
 
+Topic Links:
+- Week 1:
+  - [Microelectronics + Networking](https://github.com/vincenthuynh1409/MIT-BWSI-CyberOps-Notes/blob/main/Week%201/July%2010%2C%202026%20(Micro%20%2B%20Networking).md)
+
 That's pretty much it. Happy reading :)
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/67601e95-4014-43f5-95f9-905783c9e890" />
